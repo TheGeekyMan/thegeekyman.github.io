@@ -1169,3 +1169,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+.btn-download{
+  background-color: #4F29F0;
+  border-radius: 10px;
+}
